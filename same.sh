@@ -7,7 +7,7 @@
 # 引数の数が２じゃないとエラー	"Plz input 2 argments"
 if [ $# -ne 2 ] ;
 then
-	echo "Plz input 2 argments" 1>&2
+	echo "Plz input 2 argment" 1>&2
 	exit 1
 fi
 
